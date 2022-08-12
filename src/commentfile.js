@@ -1,4 +1,4 @@
-import { getByTitle } from "@testing-library/react";
+/*import { getByTitle } from "@testing-library/react";
 
 //props in JS
 function Mycomponentwithprops(props) {
@@ -60,3 +60,4 @@ function App() {
   
   }
   
+*/
