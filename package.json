@@ -1,5 +1,5 @@
 {
-  "homepage": "http://harishayat07.github.io/To-Do-List-App-With-React",
+  "homepage": "https://github.com/harishayat07/To-Do-List-App-With-React.git",
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
