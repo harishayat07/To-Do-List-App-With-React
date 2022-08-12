@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/harishayat07/To-Do-List-App-With-React.git/static/css/main.e9f09840.css",
-    "main.js": "/harishayat07/To-Do-List-App-With-React.git/static/js/main.3c2ac4a7.js",
-    "index.html": "/harishayat07/To-Do-List-App-With-React.git/index.html",
-    "main.e9f09840.css.map": "/harishayat07/To-Do-List-App-With-React.git/static/css/main.e9f09840.css.map",
-    "main.3c2ac4a7.js.map": "/harishayat07/To-Do-List-App-With-React.git/static/js/main.3c2ac4a7.js.map"
+    "main.css": "/To-Do-List-App-With-React/static/css/main.e9f09840.css",
+    "main.js": "/To-Do-List-App-With-React/static/js/main.3c2ac4a7.js",
+    "index.html": "/To-Do-List-App-With-React/index.html",
+    "main.e9f09840.css.map": "/To-Do-List-App-With-React/static/css/main.e9f09840.css.map",
+    "main.3c2ac4a7.js.map": "/To-Do-List-App-With-React/static/js/main.3c2ac4a7.js.map"
   },
   "entrypoints": [
     "static/css/main.e9f09840.css",
